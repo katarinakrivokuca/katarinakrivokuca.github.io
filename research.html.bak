@@ -33,7 +33,9 @@
         <!-- insert the page content here -->
 		
 		<p></p>
-        <h1> Here you can find my Master's thesis <a href="Krivokuca Master Thesis.pdf" target="_blank_"> Upper Bounds on Covering Minima of Convex Bodies</a>, advised by Giulia Codenotti. </h1>
+		<h2>Preprints:</h2>
+		<p><a href="https://arxiv.org/abs/2601.15173" target="_blank_">Upper Bounds on Covering Minima of Convex Bodies</p>
+        <p> Here you can find my Master's thesis <a href="Krivokuca Master Thesis.pdf" target="_blank_"> Upper Bounds on Covering Minima of Convex Bodies</a>, advised by Giulia Codenotti. </p>
 	  </div>
     </div>
     <div id="footer">
